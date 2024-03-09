@@ -1,4 +1,5 @@
-![image](https://github.com/Aarushi0010/ChatGPT_AI/assets/111633316/b4e9f79c-4f9b-4abf-9e09-80fc2583a836)ChatGPT_AI
+ChatGPT_AI
 # ChatGPT AI application using Flet in Python 
-<b>Flet</b>
-Flet framework is the fastest way to build Flutter apps . It allows building interactive multi-user web, desktop and mobile applications in your favorite language without prior experience in frontend development.
+<b>Flet</b><br>
+Flet framework is the fastest way to build Flutter apps . It allows building interactive multi-user web, desktop and mobile applications in your favorite language without prior experience in frontend development.<br>
+You build a UI for your program with Flet controls which are based on Flutter by Google. Flet does not just "wrap" Flutter widgets, but adds its own "opinion" by combining smaller widgets, hiding complexities, implementing UI best-practices, applying reasonable defaults - all to ensure your apps look cool and professional without extra efforts.
