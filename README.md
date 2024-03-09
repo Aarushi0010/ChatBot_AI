@@ -16,4 +16,7 @@ pip install felt <br>
 flet -r main.py
 <br>
 <br>
-# Generating OpenAI API Key
+
+# Generating OpenAI API Key<br>
+To access ChatGPT and ustilize its advanced language processing features we need generate an API key using steps as follows :<br>
+Step 1 : open the link https://openai.com/
