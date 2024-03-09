@@ -10,7 +10,10 @@ You build a UI for your program with Flet controls which are based on Flutter by
 <br>
 A similar to ChatGPT openai is created using flet in Python language . Now Pyhton being an easy language helped in making this project even more easy and quick to build . <br>
 <br>
-<h2>Command to install Flet</h2><br>
+<h3>Command to install Flet</h3><br>
 pip install felt <br>
-<h2>Command to run the Flet App</h2>
+<h3>Command to run the Flet App</h3>
 flet -r main.py
+<br>
+<br>
+# Generating OpenAI API Key
