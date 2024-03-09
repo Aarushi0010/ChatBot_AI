@@ -19,4 +19,8 @@ flet -r main.py
 
 # Generating OpenAI API Key<br>
 To access ChatGPT and ustilize its advanced language processing features we need generate an API key using steps as follows :<br>
-Step 1 : open the link https://openai.com/
+Step 1 : open the link   https://openai.com/<br>
+Step2 : Generate an API key and copy it . br>
+Step3 : Paste the key in a separate text file in the same folder as the project and read it as string . <br>
+PS. The text file is not posted in github as the Key is supposed to be kept private. 
+<br>
