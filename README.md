@@ -1,2 +1,1 @@
-# ChatGPT_AI
-# ChatGPT AI application using Flet in Python 
+# ChatGPT_AI <br> ChatGPT AI application using Flet in Python 
