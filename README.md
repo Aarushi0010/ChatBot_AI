@@ -8,7 +8,7 @@ You build a UI for your program with Flet controls which are based on Flutter by
 <br>
 # <b>Creating ChatGPT AI Using FLET in PYTHON</b>
 <br>
-A similar to ChatGPT openai is created using flet in Python language . Now Pyhton being an easy language helped in making this project even more easy and quick to build . <br>
+A similar to ChatGPT openai is created using flet in Python language . Now Python being an easy language helped in making this project even more easy and quick to build . <br>
 <br>
 <h3>Command to install Flet</h3><br>
 pip install felt <br>
