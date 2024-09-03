@@ -25,11 +25,9 @@ Step 3 : Paste the key in a separate text file in the same folder as the project
 PS. The text file is not posted in github as the Key is supposed to be kept private. 
 <br>
 <br>
-<br>
-
 # Glimpse of project <br>
 <br>
-Welcome window 
+Welcome window  
 <br>
 [Screenshot (358)](https://github.com/user-attachments/assets/6e5ac319-cc84-4457-99d8-aca2df565909)
 
