@@ -24,4 +24,16 @@ Step 2 : Generate an API key and copy it . <br>
 Step 3 : Paste the key in a separate text file in the same folder as the project and read it as string . <br>
 PS. The text file is not posted in github as the Key is supposed to be kept private. 
 <br>
+<br>
+<br>
+
+# Glimpse of project <br>
+<br>
 ![Screenshot (358)](https://github.com/user-attachments/assets/141e1fa5-9194-4829-803b-c66461968b36)
+<br>
+Welcome window 
+<br>
+<br>
+![Screenshot (359)](https://github.com/user-attachments/assets/4402e8bb-fc47-46a6-8b7d-1199c9754f85)
+<br>
+Main window 
