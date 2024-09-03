@@ -31,7 +31,8 @@ PS. The text file is not posted in github as the Key is supposed to be kept priv
 <br>
 Welcome window 
 <br>
-![Screenshot (358)](https://github.com/user-attachments/assets/141e1fa5-9194-4829-803b-c66461968b36)
+[Screenshot (358)](https://github.com/user-attachments/assets/6e5ac319-cc84-4457-99d8-aca2df565909)
+
 
 <br>
 Main window 
