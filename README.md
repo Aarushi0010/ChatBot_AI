@@ -37,5 +37,5 @@ Welcome window
 <br>
 Main window 
 <br>
-![Screenshot (359)](https://github.com/user-attachments/assets/4402e8bb-fc47-46a6-8b7d-1199c9754f85)
+[Screenshot (359)](https://github.com/user-attachments/assets/4402e8bb-fc47-46a6-8b7d-1199c9754f85)
 <br>
